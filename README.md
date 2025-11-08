@@ -1,4 +1,4 @@
-# 🚀 AWS Automation Dashboard using Python, Boto3, and Streamlit
+# 🚀 AWS Automation Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
@@ -50,11 +50,6 @@ AWS_MINI_PROJECT/
 │   └── restore_from_snapshot.py
 ├── S3/
 │   └── upload_to_s3.py
-├── screenshots/
-│   ├── ec2.png
-│   ├── s3.png
-│   └── rds.png
-├── architecture_diagram.png
 ├── requirements.txt
 └── README.md
 ```
@@ -62,7 +57,7 @@ AWS_MINI_PROJECT/
 ---
 
 ## 🖼️ Architecture Diagram and 📹 Demo Output video
-[![Architecture Diagram](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/IMG-20250713-WA0016(1).jpg)](https://youtube.com/shorts/NbjEXhEuWSg?si=2nrSsd4KwWbpGvWE)
+[![Architecture Diagram](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/IMG-20250713-WA0016(1).jpg)]
 
 ---
 ## ⚙️ Setup Instructions (Step-by-Step Guide)
@@ -302,3 +297,4 @@ http://<EC2-Public-IP>:8501
 
 ### 🧭 Navigation Panel
 ![Navigation Panel](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FDashBoard%2FNavigation%20Panel%20DashBoard.jpg)
+
